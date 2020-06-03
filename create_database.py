@@ -3,7 +3,7 @@ import os
 import imutils
 from cnn_based_face_extractor import crop_faces
 
-video_object = cv2.VideoCapture("C:/Users/acer/PycharmProjects/sunil_sir1.mp4")
+video_object = cv2.VideoCapture(0)
 cap_frames = 0
 
 path="C:/Users/acer/PycharmProjects/Final_Project_Upgraded/Database"
