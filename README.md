@@ -1,1 +1,1 @@
-# Face-recognition-using-LBPH-Recognizer
+# Face-recognition-using-LBPH-recognizer
